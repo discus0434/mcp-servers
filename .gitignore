@@ -8,3 +8,9 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Editor Config
+.vscode/*
+!.vscode/settings.json
+
+.DS_Store
